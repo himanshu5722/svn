@@ -1,0 +1,11 @@
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\InventoryManagementService.dll
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\InventoryManagementService.pdb
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\Elmah.dll
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\obj\Debug\InventoryManagementService.csprojResolveAssemblyReference.cache
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\obj\Debug\InventoryManagementService.dll
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\obj\Debug\InventoryManagementService.pdb
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\BAL.dll
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\Entity.dll
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\BAL.pdb
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\Entity.pdb
+E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\InventoryManagementService\bin\Log.dll
