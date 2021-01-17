@@ -1,5 +1,0 @@
-E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\Entity\bin\Debug\Entity.dll
-E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\Entity\bin\Debug\Entity.pdb
-E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
-E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\Entity\obj\Debug\Entity.dll
-E:\Varsha\Projects\CCH\AXIS_Bank_Application\EInventory\Entity\obj\Debug\Entity.pdb
